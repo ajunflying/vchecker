@@ -8,7 +8,6 @@ $使用
 var VChecker = require("v_checker");
 
 ```
-
 var vchecker = new VChecker({});
 
 ```
