@@ -3,7 +3,6 @@
 $安装 npm install v_checker
 
 $使用
-
 ```javascript
 var VChecker = require("v_checker");
 var vchecker = new VChecker({});
