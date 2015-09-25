@@ -16,7 +16,7 @@ if(vchecker.error){
 
 $方法
 ```
-* requireExist 必选参数，且不能为空或0
+- requireExist 必选参数，且不能为空或0
 
 * requireObjectId 必选参数，必须是一个ObjectId 24位的字符串
 
