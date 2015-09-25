@@ -10,10 +10,9 @@ var VChecker = require("v_checker");
 ```
 var vchecker = new VChecker({});
 
-```
 vchecker.requireExist(key);
 
-```
 if(vchecker.error){
     console.log(vchecker.error);
 }
+```
